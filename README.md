@@ -24,7 +24,7 @@ The data features include: loan size, interest rate, borrower income, debt to in
 
 * Machine Learning Logistic Regression Model:
   * Overall Accuracy (99%)
-  * Health Loan Precision (100%), Recall (100%)
+  * Healthy Loan Precision (100%), Recall (100%)
   * High-Risk Loan Precision (87%), Recall (89%)
 
 ## Summary
